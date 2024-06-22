@@ -9,7 +9,7 @@ import com.maltez.apirest.apirest.Entity.Producto;
 import com.maltez.apirest.apirest.Repository.IproductoRepository;
 
 @RestController
-@RequestMapping("/producto")
+@RequestMapping("/productos")
 
 public class ProductoController {
     
